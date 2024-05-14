@@ -15,6 +15,8 @@ import com.mastahcode.belajarStatic.data.Users;
 //attribut(variabel), method dan nested class yang diberikan keyword static, maka
 //tidak akan dapata mengakses data pada class tersebut secara langsung. data yang akan kita ambil
 //juga harus diubah menjadi static agar dapat mengakses data tersebut
+
+//https://www.youtube.com/watch?v=PZI5Z8Gqxbw&list=PLFfUPa9IV8LpbRH5-TzphcZj6tpoxdr-p&index=11
 public class Main {
 
     /**
